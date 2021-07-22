@@ -21,4 +21,8 @@ public class SomeData {
             e.printStackTrace();
         }
     }
+
+    private void selectionUsing(){
+        new Selection().print();
+    }
 }
