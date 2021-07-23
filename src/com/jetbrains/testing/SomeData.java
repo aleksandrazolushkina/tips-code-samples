@@ -25,4 +25,8 @@ public class SomeData {
     private void selectionUsing(){
         new Selection().print();
     }
+
+    private void callUsingPerson(){
+        new SomeMethods().usingPerson();
+    }
 }
