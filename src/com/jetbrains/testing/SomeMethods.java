@@ -9,4 +9,9 @@ public class SomeMethods {
         System.out.println(person.getGreeting());
         System.out.println("My name is " + person.name + " " + person.surname);
     }
+
+    public void someMethod(){
+        String text = "Some text";
+        System.out.println(text);
+    }
 }
