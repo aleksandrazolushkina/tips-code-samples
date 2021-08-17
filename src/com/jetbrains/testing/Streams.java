@@ -7,6 +7,5 @@ public class Streams {
 
     public void completionSample() {
         List<String> someList = Arrays.asList("one", "two", "three");
-        someList
     }
 }
