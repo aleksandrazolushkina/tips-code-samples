@@ -2,6 +2,8 @@ package com.jetbrains.service;
 
 public class Person {
 
+    static class Data {}
+
     public String name;
 
     public String surname;
