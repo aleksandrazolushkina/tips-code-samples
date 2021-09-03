@@ -6,6 +6,6 @@ public class Comments {
      * @param text
      */
     public void someMethod(String string){
-        System.out.println(text);
+        System.out.println(string);
     }
 }
