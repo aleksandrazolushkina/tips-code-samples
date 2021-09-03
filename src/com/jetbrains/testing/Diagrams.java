@@ -5,4 +5,6 @@ import java.util.ArrayList;
 public class Diagrams {
 
     private ArrayList list = null;
+
+    private Cat cat = null;
 }
