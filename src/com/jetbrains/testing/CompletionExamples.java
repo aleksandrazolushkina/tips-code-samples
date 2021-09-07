@@ -52,4 +52,9 @@ public class CompletionExamples {
         ExecutorService service = Executors.newSingleThreadExecutor();
         Future f = service
     }
+
+    public void liveTemplate(){
+        List<String> list = new ArrayList<>();
+        list.
+    }
 }
