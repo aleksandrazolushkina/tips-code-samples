@@ -2,9 +2,9 @@ package com.jetbrains.testing;
 
 public class DiffExample {
 
-    private final Animal animal = new Cat();
+    private final Animal animal = new Tiger();
 
-    public void animalSound() {
+    private void animalSound() {
         animal.makeSound();
     }
 }
