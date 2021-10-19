@@ -4,10 +4,10 @@ class ClassA {
 
 }
 
-class ClassD extends ClassA {
+class ClassB extends ClassA {
 
 }
 
-class ClassC extends ClassD {
+class ClassC extends ClassB {
 
 }
