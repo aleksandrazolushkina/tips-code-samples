@@ -18,4 +18,11 @@ public class SomeMethods {
         final String expectedText = "Hello";
         expectedText.equals(actualText);
     }
+
+    public void comparison(int param1, int param2){
+        if(param1 == param2)
+            System.out.println("Equals");
+        else
+            System.out.println("Not equals");
+    }
 }
